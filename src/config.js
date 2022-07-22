@@ -384,8 +384,8 @@ const shuffleLayerConfigurations = true;
 const debugLogs = false;
 
 const format = {
-  width: 2000,
-  height: 3000,
+  width: 1500,
+  height: 2000,
   smoothing: false,
 };
 

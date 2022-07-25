@@ -395,7 +395,7 @@ const extraMetadata = {
 
 // NFTPort Info
 // ** REQUIRED **
-const AUTH = "aa58e749-9686-488f-9b86-002eb5489b95";
+const AUTH = "ead2458a-6fdd-44ef-b3ea-1dedd5e1f2b7";
 const LIMIT = 2; // Your API key rate limit
 const CONTRACT_NAME = 'PADELMANIAKS';
 const CONTRACT_SYMBOL = 'PMS';

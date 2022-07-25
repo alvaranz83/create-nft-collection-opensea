@@ -406,7 +406,7 @@ const METADATA_UPDATABLE = true; // set to false if you don't want to allow meta
 const ROYALTY_SHARE = 600; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0xd24B4Bd00D6909707816AFA28846DB7f73d3f5b8"; // Address that will receive the royalty
 // ** OPTIONAL **
-let CONTRACT_ADDRESS = "YOUR CONTRACT ADDRESS"; // If you want to manually include it
+let CONTRACT_ADDRESS = "0xe244cE4d383151fE13C295A3E212606c8FE1a83d"; // If you want to manually include it
 // Generic Metadata is optional if you want to reveal your NFTs
 const GENERIC = false; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
 const GENERIC_TITLE = "Unknown"; // Replace with what you want the generic titles to say.

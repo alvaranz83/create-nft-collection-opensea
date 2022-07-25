@@ -401,7 +401,7 @@ const CONTRACT_NAME = 'PADELMANIAKS';
 const CONTRACT_SYMBOL = 'PMS';
 const CONTRACT_TYPE = 'erc721';
 const MINT_TO_ADDRESS = '0xd24B4Bd00D6909707816AFA28846DB7f73d3f5b8';
-const CHAIN = 'rinkeby';
+const CHAIN = 'polygon';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const ROYALTY_SHARE = 600; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0xd24B4Bd00D6909707816AFA28846DB7f73d3f5b8"; // Address that will receive the royalty

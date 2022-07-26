@@ -31,3 +31,79 @@
 32 | RUN ACTION | WAIT SECONDS | +5
 33 | 1330 | -932 | 0 | Keypress Ctrl+ | w
 34 | RUN ACTION | DEFINE INTEGER VARIABLE | %INTEGER%::+1
+
+
+
+/// Macro updated
+
+1 | 2511 | 830 | 0 | Keypress Ctrl+ | t
+2 | 2320 | 703 | 0 | Keypress %string%
+3 | 2551 | 822 | 0 | Keypress %integer%
+4 | 2523 | 838 | 0 | Keypress %string1%
+5 | 2320 | 703 | 0 | Keypress enter
+6 | RUN ACTION | WAIT SECONDS | +4
+7 | 2546 | 862 | 0 | Keypress %decimal%
+8 | 2546 | 862 | 0 | Keypress tab
+9 | 2546 | 862 | 0 | Keypress tab
+10 | 2546 | 862 | 0 | Keypress tab
+11 | 2546 | 862 | 0 | Keypress tab
+12 | 2546 | 862 | 0 | Keypress tab
+13 | 2546 | 862 | 0 | Keypress tab
+14 | 2546 | 862 | 0 | Keypress tab
+15 | 2546 | 862 | 0 | Keypress tab
+16 | 2546 | 862 | 0 | Keypress tab
+17 | 2546 | 862 | 0 | Keypress space
+18 | 2546 | 862 | 0 | Keypress enter
+19 | 2546 | 862 | 0 | Keypress tab
+20 | 2546 | 862 | 0 | Keypress tab
+21 | 2546 | 862 | 0 | Keypress space
+22 | 1898 | 380 | 2610 | Left Click Down
+23 | 1897 | 382 | 95 | Mouse Movement
+24 | 1897 | 392 | 10 | Mouse Movement
+25 | 1896 | 396 | 10 | Mouse Movement
+26 | 1896 | 400 | 24 | Mouse Movement
+27 | 1895 | 402 | 16 | Mouse Movement
+28 | 1895 | 405 | 24 | Mouse Movement
+29 | 1894 | 415 | 64 | Mouse Movement
+30 | 1894 | 418 | 10 | Mouse Movement
+31 | 1894 | 420 | 10 | Mouse Movement
+32 | 1894 | 426 | 24 | Mouse Movement
+33 | 1894 | 431 | 10 | Mouse Movement
+34 | 1894 | 440 | 10 | Mouse Movement
+35 | 1894 | 444 | 16 | Mouse Movement
+36 | 1894 | 448 | 24 | Mouse Movement
+37 | 1893 | 452 | 16 | Mouse Movement
+38 | 1891 | 463 | 57 | Mouse Movement
+39 | 1891 | 464 | 10 | Mouse Movement
+40 | 1891 | 469 | 24 | Mouse Movement
+41 | 1891 | 472 | 10 | Mouse Movement
+42 | 1891 | 478 | 32 | Mouse Movement
+43 | 1891 | 481 | 10 | Mouse Movement
+44 | 1891 | 485 | 24 | Mouse Movement
+45 | 1891 | 488 | 24 | Mouse Movement
+46 | 1891 | 491 | 16 | Mouse Movement
+47 | 1891 | 492 | 16 | Mouse Movement
+48 | 1891 | 495 | 16 | Mouse Movement
+49 | 1891 | 498 | 24 | Mouse Movement
+50 | 1891 | 501 | 10 | Mouse Movement
+51 | 1891 | 502 | 16 | Mouse Movement
+52 | 1890 | 504 | 10 | Mouse Movement
+53 | 1890 | 506 | 16 | Mouse Movement
+54 | 1890 | 518 | 96 | Mouse Movement
+55 | 1890 | 522 | 49 | Mouse Movement
+56 | 1890 | 528 | 64 | Mouse Movement
+57 | 1890 | 529 | 16 | Mouse Movement
+58 | 1890 | 530 | 16 | Mouse Movement
+59 | 1890 | 532 | 32 | Mouse Movement
+60 | 1890 | 536 | 48 | Mouse Movement
+61 | 1890 | 537 | 24 | Mouse Movement
+62 | 1890 | 538 | 24 | Mouse Movement
+63 | 1890 | 539 | 80 | Mouse Movement
+64 | 1890 | 539 | 33 | Left Click Release
+65 | 1825 | 585 | 712 | Left Click Down
+66 | 1825 | 585 | 63 | Left Click Release
+67 | 1830 | 582 | 1656 | Left Click Down
+68 | 1830 | 582 | 47 | Left Click Release
+69 | 1271 | 197 | 5856 | Left Click Down
+70 | 1271 | 197 | 48 | Left Click Release
+71 | 1271 | 197 | 0 | Keypress Ctrl+ | t

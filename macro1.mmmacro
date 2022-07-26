@@ -41,7 +41,7 @@
 3 | 2551 | 822 | 0 | Keypress %integer%
 4 | 2523 | 838 | 0 | Keypress %string1%
 5 | 2320 | 703 | 0 | Keypress enter
-6 | RUN ACTION | WAIT SECONDS | +4
+6 | RUN ACTION | WAIT SECONDS | +3
 7 | 2546 | 862 | 0 | Keypress %decimal%
 8 | 2546 | 862 | 0 | Keypress tab
 9 | 2546 | 862 | 0 | Keypress tab
@@ -102,8 +102,10 @@
 64 | 1890 | 539 | 33 | Left Click Release
 65 | 1825 | 585 | 712 | Left Click Down
 66 | 1825 | 585 | 63 | Left Click Release
-67 | 1830 | 582 | 1656 | Left Click Down
-68 | 1830 | 582 | 47 | Left Click Release
-69 | 1271 | 197 | 5856 | Left Click Down
-70 | 1271 | 197 | 48 | Left Click Release
-71 | 1271 | 197 | 0 | Keypress Ctrl+ | t
+67 | 1730 | 582 | 1656 | Left Click Down
+68 | 1730 | 582 | 47 | Left Click Release
+69 | 1650 | 197 | 5856 | Left Click Down
+70 | 1650 | 197 | 48 | Left Click Release
+71 | RUN ACTION | WAIT SECONDS | +1
+72 | 1271 | -931 | 0 | Keypress Ctrl+ | w
+73 | RUN ACTION | DEFINE INTEGER VARIABLE | %INTEGER%::+1
